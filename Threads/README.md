@@ -1,3 +1,4 @@
+## This is for the thread and the runnable interface
 # HOW TO RUN THIS PROGRAM : 
 ### 1)Copy one of the code snippets into a file named ThreadExample.java or RunnableExample.java.
 ### 2)Open a terminal or command prompt and navigate to the directory where the file is saved.
